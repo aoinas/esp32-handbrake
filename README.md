@@ -1,2 +1,2 @@
 # esp32-handbrake
-Bluetooth handbrake which for now gets it's power from USB. So it is wired bluetooth handbrake for sim racing :)
+Software for simracing handbrake which uses potentiometer to read it's input and bluetooth to communicate with PC. 
